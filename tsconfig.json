@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      
+      "module": "es6",    
+      "target": "es6",  
+      "outDir": "./dist",
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "sourceMap": true
+    },
+    "include": [
+      "script.ts",
+      "task.ts"
+    ]
+  }
